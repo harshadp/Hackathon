@@ -1,0 +1,5 @@
+c:\users\yogram\documents\visual studio 2013\Projects\ProcessWifiThermometerData\DataModel\bin\Release\DataModel.dll.config
+c:\users\yogram\documents\visual studio 2013\Projects\ProcessWifiThermometerData\DataModel\bin\Release\DataModel.dll
+c:\users\yogram\documents\visual studio 2013\Projects\ProcessWifiThermometerData\DataModel\bin\Release\DataModel.pdb
+c:\users\yogram\documents\visual studio 2013\Projects\ProcessWifiThermometerData\DataModel\obj\Release\DataModel.dll
+c:\users\yogram\documents\visual studio 2013\Projects\ProcessWifiThermometerData\DataModel\obj\Release\DataModel.pdb
