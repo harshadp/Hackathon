@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="Telerik.UI.Xaml.Controls.Data" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="Telerik.UI.Xaml.Controls.Data">
+				<NamedResource name="Telerik.UI.Xaml.Controls.Data.xr.xml" uri="ms-resource://Telerik.UI.Xaml.Controls.Data/Files/Telerik.UI.Xaml.Controls.Data/Telerik.UI.Xaml.Controls.Data.xr.xml">
+					<Candidate type="Path">
+						<Value>Telerik.UI.Xaml.Controls.Data\Telerik.UI.Xaml.Controls.Data.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Generic.xaml" uri="ms-resource://Telerik.UI.Xaml.Controls.Data/Files/Telerik.UI.Xaml.Controls.Data/Themes/Generic.xaml">
+						<Candidate type="Path">
+							<Value>Telerik.UI.Xaml.Controls.Data\Themes\Generic.xaml</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Generic.xbf" uri="ms-resource://Telerik.UI.Xaml.Controls.Data/Files/Telerik.UI.Xaml.Controls.Data/Themes/Generic.xbf">
+						<Candidate type="Path">
+							<Value>Telerik.UI.Xaml.Controls.Data\Themes\Generic.xbf</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ListBox.xaml" uri="ms-resource://Telerik.UI.Xaml.Controls.Data/Files/Telerik.UI.Xaml.Controls.Data/Themes/ListBox.xaml">
+						<Candidate type="Path">
+							<Value>Telerik.UI.Xaml.Controls.Data\Themes\ListBox.xaml</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ListBox.xbf" uri="ms-resource://Telerik.UI.Xaml.Controls.Data/Files/Telerik.UI.Xaml.Controls.Data/Themes/ListBox.xbf">
+						<Candidate type="Path">
+							<Value>Telerik.UI.Xaml.Controls.Data\Themes\ListBox.xbf</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ThemeResourcesDark.xaml" uri="ms-resource://Telerik.UI.Xaml.Controls.Data/Files/Telerik.UI.Xaml.Controls.Data/Themes/ThemeResourcesDark.xaml">
+						<Candidate type="Path">
+							<Value>Telerik.UI.Xaml.Controls.Data\Themes\ThemeResourcesDark.xaml</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ThemeResourcesDark.xbf" uri="ms-resource://Telerik.UI.Xaml.Controls.Data/Files/Telerik.UI.Xaml.Controls.Data/Themes/ThemeResourcesDark.xbf">
+						<Candidate type="Path">
+							<Value>Telerik.UI.Xaml.Controls.Data\Themes\ThemeResourcesDark.xbf</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ThemeResourcesLight.xaml" uri="ms-resource://Telerik.UI.Xaml.Controls.Data/Files/Telerik.UI.Xaml.Controls.Data/Themes/ThemeResourcesLight.xaml">
+						<Candidate type="Path">
+							<Value>Telerik.UI.Xaml.Controls.Data\Themes\ThemeResourcesLight.xaml</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ThemeResourcesLight.xbf" uri="ms-resource://Telerik.UI.Xaml.Controls.Data/Files/Telerik.UI.Xaml.Controls.Data/Themes/ThemeResourcesLight.xbf">
+						<Candidate type="Path">
+							<Value>Telerik.UI.Xaml.Controls.Data\Themes\ThemeResourcesLight.xbf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Telerik.UI.Xaml.Input">
+				<NamedResource name="Telerik.UI.Xaml.Input.xr.xml" uri="ms-resource://Telerik.UI.Xaml.Controls.Data/Files/Telerik.UI.Xaml.Input/Telerik.UI.Xaml.Input.xr.xml">
+					<Candidate type="Path">
+						<Value>Telerik.UI.Xaml.Input\Telerik.UI.Xaml.Input.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Calendar.xaml" uri="ms-resource://Telerik.UI.Xaml.Controls.Data/Files/Telerik.UI.Xaml.Input/Themes/Calendar.xaml">
+						<Candidate type="Path">
+							<Value>Telerik.UI.Xaml.Input\Themes\Calendar.xaml</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Calendar.xbf" uri="ms-resource://Telerik.UI.Xaml.Controls.Data/Files/Telerik.UI.Xaml.Input/Themes/Calendar.xbf">
+						<Candidate type="Path">
+							<Value>Telerik.UI.Xaml.Input\Themes\Calendar.xbf</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="CommonResources.xaml" uri="ms-resource://Telerik.UI.Xaml.Controls.Data/Files/Telerik.UI.Xaml.Input/Themes/CommonResources.xaml">
+						<Candidate type="Path">
+							<Value>Telerik.UI.Xaml.Input\Themes\CommonResources.xaml</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="CommonResources.xbf" uri="ms-resource://Telerik.UI.Xaml.Controls.Data/Files/Telerik.UI.Xaml.Input/Themes/CommonResources.xbf">
+						<Candidate type="Path">
+							<Value>Telerik.UI.Xaml.Input\Themes\CommonResources.xbf</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Generic.xaml" uri="ms-resource://Telerik.UI.Xaml.Controls.Data/Files/Telerik.UI.Xaml.Input/Themes/Generic.xaml">
+						<Candidate type="Path">
+							<Value>Telerik.UI.Xaml.Input\Themes\Generic.xaml</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Generic.xbf" uri="ms-resource://Telerik.UI.Xaml.Controls.Data/Files/Telerik.UI.Xaml.Input/Themes/Generic.xbf">
+						<Candidate type="Path">
+							<Value>Telerik.UI.Xaml.Input\Themes\Generic.xbf</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Resources.xaml" uri="ms-resource://Telerik.UI.Xaml.Controls.Data/Files/Telerik.UI.Xaml.Input/Themes/Resources.xaml">
+						<Candidate type="Path">
+							<Value>Telerik.UI.Xaml.Input\Themes\Resources.xaml</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Resources.xbf" uri="ms-resource://Telerik.UI.Xaml.Controls.Data/Files/Telerik.UI.Xaml.Input/Themes/Resources.xbf">
+						<Candidate type="Path">
+							<Value>Telerik.UI.Xaml.Input\Themes\Resources.xbf</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ThemeResourcesDark.xaml" uri="ms-resource://Telerik.UI.Xaml.Controls.Data/Files/Telerik.UI.Xaml.Input/Themes/ThemeResourcesDark.xaml">
+						<Candidate type="Path">
+							<Value>Telerik.UI.Xaml.Input\Themes\ThemeResourcesDark.xaml</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ThemeResourcesDark.xbf" uri="ms-resource://Telerik.UI.Xaml.Controls.Data/Files/Telerik.UI.Xaml.Input/Themes/ThemeResourcesDark.xbf">
+						<Candidate type="Path">
+							<Value>Telerik.UI.Xaml.Input\Themes\ThemeResourcesDark.xbf</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ThemeResourcesLight.xaml" uri="ms-resource://Telerik.UI.Xaml.Controls.Data/Files/Telerik.UI.Xaml.Input/Themes/ThemeResourcesLight.xaml">
+						<Candidate type="Path">
+							<Value>Telerik.UI.Xaml.Input\Themes\ThemeResourcesLight.xaml</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ThemeResourcesLight.xbf" uri="ms-resource://Telerik.UI.Xaml.Controls.Data/Files/Telerik.UI.Xaml.Input/Themes/ThemeResourcesLight.xbf">
+						<Candidate type="Path">
+							<Value>Telerik.UI.Xaml.Input\Themes\ThemeResourcesLight.xbf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Telerik.UI.Xaml.Primitives">
+				<NamedResource name="Telerik.UI.Xaml.Primitives.xr.xml" uri="ms-resource://Telerik.UI.Xaml.Controls.Data/Files/Telerik.UI.Xaml.Primitives/Telerik.UI.Xaml.Primitives.xr.xml">
+					<Candidate type="Path">
+						<Value>Telerik.UI.Xaml.Primitives\Telerik.UI.Xaml.Primitives.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Generic.xaml" uri="ms-resource://Telerik.UI.Xaml.Controls.Data/Files/Telerik.UI.Xaml.Primitives/Themes/Generic.xaml">
+						<Candidate type="Path">
+							<Value>Telerik.UI.Xaml.Primitives\Themes\Generic.xaml</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Generic.xbf" uri="ms-resource://Telerik.UI.Xaml.Controls.Data/Files/Telerik.UI.Xaml.Primitives/Themes/Generic.xbf">
+						<Candidate type="Path">
+							<Value>Telerik.UI.Xaml.Primitives\Themes\Generic.xbf</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="HubTilePalette.xaml" uri="ms-resource://Telerik.UI.Xaml.Controls.Data/Files/Telerik.UI.Xaml.Primitives/Themes/HubTilePalette.xaml">
+						<Candidate type="Path">
+							<Value>Telerik.UI.Xaml.Primitives\Themes\HubTilePalette.xaml</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="HubTilePalette.xbf" uri="ms-resource://Telerik.UI.Xaml.Controls.Data/Files/Telerik.UI.Xaml.Primitives/Themes/HubTilePalette.xbf">
+						<Candidate type="Path">
+							<Value>Telerik.UI.Xaml.Primitives\Themes\HubTilePalette.xbf</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Resources.xaml" uri="ms-resource://Telerik.UI.Xaml.Controls.Data/Files/Telerik.UI.Xaml.Primitives/Themes/Resources.xaml">
+						<Candidate type="Path">
+							<Value>Telerik.UI.Xaml.Primitives\Themes\Resources.xaml</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Resources.xbf" uri="ms-resource://Telerik.UI.Xaml.Controls.Data/Files/Telerik.UI.Xaml.Primitives/Themes/Resources.xbf">
+						<Candidate type="Path">
+							<Value>Telerik.UI.Xaml.Primitives\Themes\Resources.xbf</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ThemeColorsDark.xaml" uri="ms-resource://Telerik.UI.Xaml.Controls.Data/Files/Telerik.UI.Xaml.Primitives/Themes/ThemeColorsDark.xaml">
+						<Candidate type="Path">
+							<Value>Telerik.UI.Xaml.Primitives\Themes\ThemeColorsDark.xaml</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ThemeColorsDark.xbf" uri="ms-resource://Telerik.UI.Xaml.Controls.Data/Files/Telerik.UI.Xaml.Primitives/Themes/ThemeColorsDark.xbf">
+						<Candidate type="Path">
+							<Value>Telerik.UI.Xaml.Primitives\Themes\ThemeColorsDark.xbf</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ThemeColorsLight.xaml" uri="ms-resource://Telerik.UI.Xaml.Controls.Data/Files/Telerik.UI.Xaml.Primitives/Themes/ThemeColorsLight.xaml">
+						<Candidate type="Path">
+							<Value>Telerik.UI.Xaml.Primitives\Themes\ThemeColorsLight.xaml</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ThemeColorsLight.xbf" uri="ms-resource://Telerik.UI.Xaml.Controls.Data/Files/Telerik.UI.Xaml.Primitives/Themes/ThemeColorsLight.xbf">
+						<Candidate type="Path">
+							<Value>Telerik.UI.Xaml.Primitives\Themes\ThemeColorsLight.xbf</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ThemeResourcesDark.xaml" uri="ms-resource://Telerik.UI.Xaml.Controls.Data/Files/Telerik.UI.Xaml.Primitives/Themes/ThemeResourcesDark.xaml">
+						<Candidate type="Path">
+							<Value>Telerik.UI.Xaml.Primitives\Themes\ThemeResourcesDark.xaml</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ThemeResourcesDark.xbf" uri="ms-resource://Telerik.UI.Xaml.Controls.Data/Files/Telerik.UI.Xaml.Primitives/Themes/ThemeResourcesDark.xbf">
+						<Candidate type="Path">
+							<Value>Telerik.UI.Xaml.Primitives\Themes\ThemeResourcesDark.xbf</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ThemeResourcesLight.xaml" uri="ms-resource://Telerik.UI.Xaml.Controls.Data/Files/Telerik.UI.Xaml.Primitives/Themes/ThemeResourcesLight.xaml">
+						<Candidate type="Path">
+							<Value>Telerik.UI.Xaml.Primitives\Themes\ThemeResourcesLight.xaml</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ThemeResourcesLight.xbf" uri="ms-resource://Telerik.UI.Xaml.Controls.Data/Files/Telerik.UI.Xaml.Primitives/Themes/ThemeResourcesLight.xbf">
+						<Candidate type="Path">
+							<Value>Telerik.UI.Xaml.Primitives\Themes\ThemeResourcesLight.xbf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Telerik.UI.Xaml.Controls.Data">
+			<ResourceMapSubtree name="Neutral">
+				<NamedResource name="DataBoundListBoxEmptyContentString" uri="ms-resource://Telerik.UI.Xaml.Controls.Data/Telerik.UI.Xaml.Controls.Data/Neutral/DataBoundListBoxEmptyContentString">
+					<Candidate type="String">
+						<Value>No data to display</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ListPullToRefreshLoadingString" uri="ms-resource://Telerik.UI.Xaml.Controls.Data/Telerik.UI.Xaml.Controls.Data/Neutral/ListPullToRefreshLoadingString">
+					<Candidate type="String">
+						<Value>Loading</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ListPullToRefreshString" uri="ms-resource://Telerik.UI.Xaml.Controls.Data/Telerik.UI.Xaml.Controls.Data/Neutral/ListPullToRefreshString">
+					<Candidate type="String">
+						<Value>Pull to refresh</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

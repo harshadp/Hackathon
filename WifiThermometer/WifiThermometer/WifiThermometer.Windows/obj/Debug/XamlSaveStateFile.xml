@@ -1,0 +1,6 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\marist\source\repos\hackathon\wifithermometer\wifithermometer\wifithermometer.windows\obj\debug\intermediatexaml\wifithermometer.windows.exe" HashGuid="a916e86e-2c43-7f8c-b863-badb7bb65b82" />
+    <ReferenceAssembly PathName="c:\users\marist\source\repos\hackathon\wifithermometer\packages\windowsazure.messaging.managed.0.1.7.9\lib\netcore45\microsoft.windowsazure.messaging.managed.dll" HashGuid="fc743b07-0e25-3384-ff82-3dec52ff762a" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

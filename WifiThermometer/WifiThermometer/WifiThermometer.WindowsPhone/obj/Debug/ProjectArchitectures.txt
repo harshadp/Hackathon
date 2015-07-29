@@ -1,0 +1,1 @@
+C:\Users\marist\Source\Repos\Hackathon\WifiThermometer\WifiThermometer\WifiThermometer.WindowsPhone\WifiThermometer.WindowsPhone.csproj;neutral

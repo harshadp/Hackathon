@@ -1,0 +1,14 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\marist\source\repos\hackathon\wifithermometer\wifithermometer\wifithermometer.windowsphone\obj\debug\intermediatexaml\wifithermometer.windowsphone.exe" HashGuid="7b0cced5-2c6e-a415-b7c1-a7749b4917a9" />
+    <ReferenceAssembly PathName="c:\users\marist\source\repos\hackathon\wifithermometer\packages\windowsazure.messaging.managed.0.1.7.9\lib\wpa81\microsoft.windowsazure.messaging.managed.dll" HashGuid="a6c77c87-a1d1-2c9f-340a-0958f7d05449" />
+    <ReferenceAssembly PathName="c:\users\marist\source\repos\hackathon\wifithermometer\packages\newtonsoft.json.7.0.1\lib\portable-net40+sl5+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="0b4cdfc1-2257-2e75-23cf-4052e97b309e" />
+    <ReferenceAssembly PathName="c:\program files (x86)\telerik\ui for windows universal q2 2015\binaries\common\telerik.core.dll" HashGuid="fa702c3b-de47-44cc-ddc4-f600ce2815f5" />
+    <ReferenceAssembly PathName="c:\program files (x86)\telerik\ui for windows universal q2 2015\binaries\common\telerik.data.dll" HashGuid="dfb27fc0-b683-94ed-731c-63156aa9f910" />
+    <ReferenceAssembly PathName="c:\program files (x86)\telerik\ui for windows universal q2 2015\binaries\windows phone 8.1\telerik.ui.xaml.chart.dll" HashGuid="a2f4712d-59ae-0a6a-611e-ec0b4d39d07f" />
+    <ReferenceAssembly PathName="c:\program files (x86)\telerik\ui for windows universal q2 2015\binaries\windows phone 8.1\telerik.ui.xaml.controls.data.dll" HashGuid="2ecea2fd-c706-fde7-99cc-491414e48675" />
+    <ReferenceAssembly PathName="c:\program files (x86)\telerik\ui for windows universal q2 2015\binaries\windows phone 8.1\telerik.ui.xaml.datavisualization.dll" HashGuid="df97c676-0273-9354-45f7-8156f616eefe" />
+    <ReferenceAssembly PathName="c:\program files (x86)\telerik\ui for windows universal q2 2015\binaries\windows phone 8.1\telerik.ui.xaml.input.dll" HashGuid="11b2b2b5-2719-553b-d531-8458e8b521d2" />
+    <ReferenceAssembly PathName="c:\program files (x86)\telerik\ui for windows universal q2 2015\binaries\windows phone 8.1\telerik.ui.xaml.primitives.dll" HashGuid="1202d368-f979-c4cb-3c4a-38afe4b83fb1" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

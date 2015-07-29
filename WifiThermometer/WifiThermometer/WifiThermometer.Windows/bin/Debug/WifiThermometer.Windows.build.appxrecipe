@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MATT_Z440</Machine>
+    <WindowsUser>marist</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>63a074d0-9b7a-46fc-8512-c5c869e87027</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\marist\Source\Repos\Hackathon\WifiThermometer\WifiThermometer\WifiThermometer.Windows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\marist\Source\Repos\Hackathon\WifiThermometer\WifiThermometer\WifiThermometer.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\marist\Source\Repos\Hackathon\WifiThermometer\WifiThermometer\WifiThermometer.Windows\bin\Debug\WifiThermometer.Windows.exe">
+      <PackagePath>WifiThermometer.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marist\Source\Repos\Hackathon\WifiThermometer\packages\WindowsAzure.Messaging.Managed.0.1.7.9\lib\netcore45\Microsoft.WindowsAzure.Messaging.Managed.dll">
+      <PackagePath>Microsoft.WindowsAzure.Messaging.Managed.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marist\Source\Repos\Hackathon\WifiThermometer\WifiThermometer\WifiThermometer.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marist\Source\Repos\Hackathon\WifiThermometer\WifiThermometer\WifiThermometer.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marist\Source\Repos\Hackathon\WifiThermometer\WifiThermometer\WifiThermometer.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marist\Source\Repos\Hackathon\WifiThermometer\WifiThermometer\WifiThermometer.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marist\Source\Repos\Hackathon\WifiThermometer\WifiThermometer\WifiThermometer.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marist\Source\Repos\Hackathon\WifiThermometer\WifiThermometer\WifiThermometer.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marist\Source\Repos\Hackathon\WifiThermometer\WifiThermometer\WifiThermometer.Windows\bin\Debug\WifiThermometer.Windows.xr.xml">
+      <PackagePath>WifiThermometer.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marist\Source\Repos\Hackathon\WifiThermometer\WifiThermometer\WifiThermometer.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

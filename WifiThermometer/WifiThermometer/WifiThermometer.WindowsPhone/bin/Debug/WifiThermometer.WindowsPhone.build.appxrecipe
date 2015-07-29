@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MATT_Z440</Machine>
+    <WindowsUser>marist</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>a7938dfe-6da3-49e6-a980-c49bad6548ec</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\marist\Source\Repos\Hackathon\WifiThermometer\WifiThermometer\WifiThermometer.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\marist\Source\Repos\Hackathon\WifiThermometer\WifiThermometer\WifiThermometer.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\marist\Source\Repos\Hackathon\WifiThermometer\WifiThermometer\WifiThermometer.WindowsPhone\bin\Debug\WifiThermometer.WindowsPhone.exe">
+      <PackagePath>WifiThermometer.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marist\Source\Repos\Hackathon\WifiThermometer\packages\WindowsAzure.Messaging.Managed.0.1.7.9\lib\wpa81\Microsoft.WindowsAzure.Messaging.Managed.dll">
+      <PackagePath>Microsoft.WindowsAzure.Messaging.Managed.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marist\Source\Repos\Hackathon\WifiThermometer\packages\Newtonsoft.Json.7.0.1\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Common\Telerik.Core.dll">
+      <PackagePath>Telerik.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Common\Telerik.Data.dll">
+      <PackagePath>Telerik.Data.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Chart.dll">
+      <PackagePath>Telerik.UI.Xaml.Chart.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Controls.Data.dll">
+      <PackagePath>Telerik.UI.Xaml.Controls.Data.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.DataVisualization.dll">
+      <PackagePath>Telerik.UI.Xaml.DataVisualization.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Input.dll">
+      <PackagePath>Telerik.UI.Xaml.Input.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Primitives.dll">
+      <PackagePath>Telerik.UI.Xaml.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marist\Source\Repos\Hackathon\WifiThermometer\WifiThermometer\WifiThermometer.WindowsPhone\Assets\Icons\thermometer.png">
+      <PackagePath>Assets\Icons\thermometer.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marist\Source\Repos\Hackathon\WifiThermometer\WifiThermometer\WifiThermometer.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marist\Source\Repos\Hackathon\WifiThermometer\WifiThermometer\WifiThermometer.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marist\Source\Repos\Hackathon\WifiThermometer\WifiThermometer\WifiThermometer.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marist\Source\Repos\Hackathon\WifiThermometer\WifiThermometer\WifiThermometer.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marist\Source\Repos\Hackathon\WifiThermometer\WifiThermometer\WifiThermometer.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marist\Source\Repos\Hackathon\WifiThermometer\WifiThermometer\WifiThermometer.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marist\Source\Repos\Hackathon\WifiThermometer\WifiThermometer\WifiThermometer.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marist\Source\Repos\Hackathon\WifiThermometer\WifiThermometer\WifiThermometer.WindowsPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marist\Source\Repos\Hackathon\WifiThermometer\WifiThermometer\WifiThermometer.WindowsPhone\bin\Debug\WifiThermometer.WindowsPhone.xr.xml">
+      <PackagePath>WifiThermometer.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Chart\CustomDictionary.xml">
+      <PackagePath>Telerik.UI.Xaml.Chart\CustomDictionary.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Chart\Telerik.UI.Xaml.Chart.xr.xml">
+      <PackagePath>Telerik.UI.Xaml.Chart\Telerik.UI.Xaml.Chart.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Chart\Themes\Generic.xaml">
+      <PackagePath>Telerik.UI.Xaml.Chart\Themes\Generic.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Chart\Themes\Generic.xbf">
+      <PackagePath>Telerik.UI.Xaml.Chart\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Chart\Themes\ThemeResourcesDark.xaml">
+      <PackagePath>Telerik.UI.Xaml.Chart\Themes\ThemeResourcesDark.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Chart\Themes\ThemeResourcesDark.xbf">
+      <PackagePath>Telerik.UI.Xaml.Chart\Themes\ThemeResourcesDark.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Chart\Themes\ThemeResourcesLight.xaml">
+      <PackagePath>Telerik.UI.Xaml.Chart\Themes\ThemeResourcesLight.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Chart\Themes\ThemeResourcesLight.xbf">
+      <PackagePath>Telerik.UI.Xaml.Chart\Themes\ThemeResourcesLight.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Primitives\Telerik.UI.Xaml.Primitives.xr.xml">
+      <PackagePath>Telerik.UI.Xaml.Primitives\Telerik.UI.Xaml.Primitives.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Primitives\Themes\Generic.xaml">
+      <PackagePath>Telerik.UI.Xaml.Primitives\Themes\Generic.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Primitives\Themes\Generic.xbf">
+      <PackagePath>Telerik.UI.Xaml.Primitives\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Primitives\Themes\HubTilePalette.xaml">
+      <PackagePath>Telerik.UI.Xaml.Primitives\Themes\HubTilePalette.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Primitives\Themes\HubTilePalette.xbf">
+      <PackagePath>Telerik.UI.Xaml.Primitives\Themes\HubTilePalette.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Primitives\Themes\Resources.xaml">
+      <PackagePath>Telerik.UI.Xaml.Primitives\Themes\Resources.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Primitives\Themes\Resources.xbf">
+      <PackagePath>Telerik.UI.Xaml.Primitives\Themes\Resources.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Primitives\Themes\ThemeColorsDark.xaml">
+      <PackagePath>Telerik.UI.Xaml.Primitives\Themes\ThemeColorsDark.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Primitives\Themes\ThemeColorsDark.xbf">
+      <PackagePath>Telerik.UI.Xaml.Primitives\Themes\ThemeColorsDark.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Primitives\Themes\ThemeColorsLight.xaml">
+      <PackagePath>Telerik.UI.Xaml.Primitives\Themes\ThemeColorsLight.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Primitives\Themes\ThemeColorsLight.xbf">
+      <PackagePath>Telerik.UI.Xaml.Primitives\Themes\ThemeColorsLight.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Primitives\Themes\ThemeResourcesDark.xaml">
+      <PackagePath>Telerik.UI.Xaml.Primitives\Themes\ThemeResourcesDark.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Primitives\Themes\ThemeResourcesDark.xbf">
+      <PackagePath>Telerik.UI.Xaml.Primitives\Themes\ThemeResourcesDark.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Primitives\Themes\ThemeResourcesLight.xaml">
+      <PackagePath>Telerik.UI.Xaml.Primitives\Themes\ThemeResourcesLight.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Primitives\Themes\ThemeResourcesLight.xbf">
+      <PackagePath>Telerik.UI.Xaml.Primitives\Themes\ThemeResourcesLight.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Controls.Data\Telerik.UI.Xaml.Controls.Data.xr.xml">
+      <PackagePath>Telerik.UI.Xaml.Controls.Data\Telerik.UI.Xaml.Controls.Data.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Controls.Data\Themes\Generic.xaml">
+      <PackagePath>Telerik.UI.Xaml.Controls.Data\Themes\Generic.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Controls.Data\Themes\Generic.xbf">
+      <PackagePath>Telerik.UI.Xaml.Controls.Data\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Controls.Data\Themes\ListBox.xaml">
+      <PackagePath>Telerik.UI.Xaml.Controls.Data\Themes\ListBox.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Controls.Data\Themes\ListBox.xbf">
+      <PackagePath>Telerik.UI.Xaml.Controls.Data\Themes\ListBox.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Controls.Data\Themes\ThemeResourcesDark.xaml">
+      <PackagePath>Telerik.UI.Xaml.Controls.Data\Themes\ThemeResourcesDark.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Controls.Data\Themes\ThemeResourcesDark.xbf">
+      <PackagePath>Telerik.UI.Xaml.Controls.Data\Themes\ThemeResourcesDark.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Controls.Data\Themes\ThemeResourcesLight.xaml">
+      <PackagePath>Telerik.UI.Xaml.Controls.Data\Themes\ThemeResourcesLight.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Controls.Data\Themes\ThemeResourcesLight.xbf">
+      <PackagePath>Telerik.UI.Xaml.Controls.Data\Themes\ThemeResourcesLight.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Input\Telerik.UI.Xaml.Input.xr.xml">
+      <PackagePath>Telerik.UI.Xaml.Input\Telerik.UI.Xaml.Input.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Input\Themes\Calendar.xaml">
+      <PackagePath>Telerik.UI.Xaml.Input\Themes\Calendar.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Input\Themes\Calendar.xbf">
+      <PackagePath>Telerik.UI.Xaml.Input\Themes\Calendar.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Input\Themes\CommonResources.xaml">
+      <PackagePath>Telerik.UI.Xaml.Input\Themes\CommonResources.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Input\Themes\CommonResources.xbf">
+      <PackagePath>Telerik.UI.Xaml.Input\Themes\CommonResources.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Input\Themes\Generic.xaml">
+      <PackagePath>Telerik.UI.Xaml.Input\Themes\Generic.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Input\Themes\Generic.xbf">
+      <PackagePath>Telerik.UI.Xaml.Input\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Input\Themes\Resources.xaml">
+      <PackagePath>Telerik.UI.Xaml.Input\Themes\Resources.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Input\Themes\Resources.xbf">
+      <PackagePath>Telerik.UI.Xaml.Input\Themes\Resources.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Input\Themes\ThemeResourcesDark.xaml">
+      <PackagePath>Telerik.UI.Xaml.Input\Themes\ThemeResourcesDark.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Input\Themes\ThemeResourcesDark.xbf">
+      <PackagePath>Telerik.UI.Xaml.Input\Themes\ThemeResourcesDark.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Input\Themes\ThemeResourcesLight.xaml">
+      <PackagePath>Telerik.UI.Xaml.Input\Themes\ThemeResourcesLight.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.Input\Themes\ThemeResourcesLight.xbf">
+      <PackagePath>Telerik.UI.Xaml.Input\Themes\ThemeResourcesLight.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.DataVisualization\Telerik.UI.Xaml.DataVisualization.xr.xml">
+      <PackagePath>Telerik.UI.Xaml.DataVisualization\Telerik.UI.Xaml.DataVisualization.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.DataVisualization\Themes\Generic.xaml">
+      <PackagePath>Telerik.UI.Xaml.DataVisualization\Themes\Generic.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.DataVisualization\Themes\Generic.xbf">
+      <PackagePath>Telerik.UI.Xaml.DataVisualization\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.DataVisualization\Themes\Resources.xaml">
+      <PackagePath>Telerik.UI.Xaml.DataVisualization\Themes\Resources.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\Binaries\Windows Phone 8.1\Telerik.UI.Xaml.DataVisualization\Themes\Resources.xbf">
+      <PackagePath>Telerik.UI.Xaml.DataVisualization\Themes\Resources.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marist\Source\Repos\Hackathon\WifiThermometer\WifiThermometer\WifiThermometer.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
